@@ -115,15 +115,178 @@ The CloudAttend deployment template provisions a VPC with public subnets for the
 - 150+ LeetCode problems and a 50-day consistency streak.
 - Smart India Hackathon 2025 participant.
 
-## More repositories
+## Repository gallery
 
-| Repository | Description |
-| --- | --- |
-| [CHAT-APPLICATION](https://github.com/ambatieswar/CHAT-APPLICATION) | Django and Channels real-time chat application |
-| [ANEMAI-DETECTION-MOBILE-APP-](https://github.com/ambatieswar/ANEMAI-DETECTION-MOBILE-APP-) | Mobile application project |
-| [SERVERLESS-VOTING-SYSTEM](https://github.com/ambatieswar/SERVERLESS-VOTING-SYSTEM) | Serverless voting system project |
-| [personal-portfolio](https://github.com/ambatieswar/personal-portfolio) | Personal portfolio project |
-| [jenkins-cicd-demo](https://github.com/ambatieswar/jenkins-cicd-demo) | CI/CD learning project |
+Every public project has a direct card below. The artwork is lightweight, GitHub-safe category artwork rather than a fabricated product screenshot; repository links and descriptions are the source of truth.
+
+### Applied AI & data
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/ambatieswar/ML"><img src="assets/repo-card-ai.svg" alt="Applied AI artwork for the ML repository" width="100%"></a>
+<h3><a href="https://github.com/ambatieswar/ML">ML</a></h3>
+<p>Machine-learning study and experimentation repository.</p>
+<a href="https://github.com/ambatieswar/ML">Open repository →</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/ambatieswar/IIOT"><img src="assets/repo-card-ai.svg" alt="Applied AI artwork for the IIOT repository" width="100%"></a>
+<h3><a href="https://github.com/ambatieswar/IIOT">IIOT</a></h3>
+<p>Intelligent and connected systems project repository.</p>
+<a href="https://github.com/ambatieswar/IIOT">Open repository →</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/ambatieswar/CODE-REFINE"><img src="assets/repo-card-ai.svg" alt="Applied AI artwork for Code-Refine AI" width="100%"></a>
+<h3><a href="https://github.com/ambatieswar/CODE-REFINE">CODE-REFINE</a></h3>
+<p>AI-assisted code review and developer productivity platform.</p>
+<a href="https://github.com/ambatieswar/CODE-REFINE">Open repository →</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/ambatieswar/PLACEMENT-AI"><img src="assets/repo-card-ai.svg" alt="Applied AI artwork for PlacementAI" width="100%"></a>
+<h3><a href="https://github.com/ambatieswar/PLACEMENT-AI">PLACEMENT-AI</a></h3>
+<p>Placement intelligence platform with AI modules, Flask, MongoDB, and JWT.</p>
+<a href="https://github.com/ambatieswar/PLACEMENT-AI">Open repository →</a>
+</td>
+</tr>
+</table>
+
+### Web applications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/ambatieswar/CHAT-APPLICATION"><img src="assets/repo-card-web.svg" alt="Web systems artwork for the chat application repository" width="100%"></a>
+<h3><a href="https://github.com/ambatieswar/CHAT-APPLICATION">CHAT-APPLICATION</a></h3>
+<p>Django and Channels real-time chat application with authenticated one-to-one messaging and WebSockets.</p>
+<a href="https://github.com/ambatieswar/CHAT-APPLICATION">Open repository →</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/ambatieswar/Eswar-Bazaar"><img src="assets/repo-card-web.svg" alt="Web systems artwork for Eswar Bazaar" width="100%"></a>
+<h3><a href="https://github.com/ambatieswar/Eswar-Bazaar">Eswar-Bazaar</a></h3>
+<p>Online grocery application project for browsing everyday products and essentials.</p>
+<a href="https://github.com/ambatieswar/Eswar-Bazaar">Open repository →</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/ambatieswar/College-Attendance"><img src="assets/repo-card-web.svg" alt="Web systems artwork for College Attendance" width="100%"></a>
+<h3><a href="https://github.com/ambatieswar/College-Attendance">College-Attendance</a></h3>
+<p>College attendance project repository.</p>
+<a href="https://github.com/ambatieswar/College-Attendance">Open repository →</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/ambatieswar/FRONTEND-PROJECT"><img src="assets/repo-card-web.svg" alt="Web systems artwork for the frontend project" width="100%"></a>
+<h3><a href="https://github.com/ambatieswar/FRONTEND-PROJECT">FRONTEND-PROJECT</a></h3>
+<p>Colorful HTML, CSS, and JavaScript to-do application with local storage.</p>
+<a href="https://github.com/ambatieswar/FRONTEND-PROJECT">Open repository →</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/ambatieswar/FULLSTACK"><img src="assets/repo-card-web.svg" alt="Web systems artwork for the full-stack project" width="100%"></a>
+<h3><a href="https://github.com/ambatieswar/FULLSTACK">FULLSTACK</a></h3>
+<p>Full-stack web development project repository.</p>
+<a href="https://github.com/ambatieswar/FULLSTACK">Open repository →</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/ambatieswar/personal-portfolio"><img src="assets/repo-card-web.svg" alt="Web systems artwork for the personal portfolio" width="100%"></a>
+<h3><a href="https://github.com/ambatieswar/personal-portfolio">personal-portfolio</a></h3>
+<p>Personal portfolio website project.</p>
+<a href="https://github.com/ambatieswar/personal-portfolio">Open repository →</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/ambatieswar/RESUME-FORGE"><img src="assets/repo-card-web.svg" alt="Web systems artwork for Resume Forge" width="100%"></a>
+<h3><a href="https://github.com/ambatieswar/RESUME-FORGE">RESUME-FORGE</a></h3>
+<p>Resume builder project.</p>
+<a href="https://github.com/ambatieswar/RESUME-FORGE">Open repository →</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/ambatieswar/ambatieswar"><img src="assets/repo-card-web.svg" alt="Web systems artwork for the GitHub profile repository" width="100%"></a>
+<h3><a href="https://github.com/ambatieswar/ambatieswar">ambatieswar</a></h3>
+<p>This profile repository: visual developer portfolio, project gallery, and verified career snapshot.</p>
+<a href="https://github.com/ambatieswar/ambatieswar">Open repository →</a>
+</td>
+</tr>
+</table>
+
+### Cloud, DevOps & Java
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/ambatieswar/SERVERLESS-VOTING-SYSTEM"><img src="assets/repo-card-cloud.svg" alt="Cloud and DevOps artwork for the serverless voting system" width="100%"></a>
+<h3><a href="https://github.com/ambatieswar/SERVERLESS-VOTING-SYSTEM">SERVERLESS-VOTING-SYSTEM</a></h3>
+<p>Serverless voting system project.</p>
+<a href="https://github.com/ambatieswar/SERVERLESS-VOTING-SYSTEM">Open repository →</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/ambatieswar/DEVOPS-LAB"><img src="assets/repo-card-cloud.svg" alt="Cloud and DevOps artwork for DevOps Lab" width="100%"></a>
+<h3><a href="https://github.com/ambatieswar/DEVOPS-LAB">DEVOPS-LAB</a></h3>
+<p>DevOps laboratory and practical learning repository.</p>
+<a href="https://github.com/ambatieswar/DEVOPS-LAB">Open repository →</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/ambatieswar/jenkins-cicd-demo"><img src="assets/repo-card-cloud.svg" alt="Cloud and DevOps artwork for the Jenkins CI/CD demo" width="100%"></a>
+<h3><a href="https://github.com/ambatieswar/jenkins-cicd-demo">jenkins-cicd-demo</a></h3>
+<p>Jenkins continuous integration and delivery learning project.</p>
+<a href="https://github.com/ambatieswar/jenkins-cicd-demo">Open repository →</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/ambatieswar/student-maven-demo"><img src="assets/repo-card-cloud.svg" alt="Cloud and DevOps artwork for the Maven demo" width="100%"></a>
+<h3><a href="https://github.com/ambatieswar/student-maven-demo">student-maven-demo</a></h3>
+<p>Java and Maven demonstration project.</p>
+<a href="https://github.com/ambatieswar/student-maven-demo">Open repository →</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/ambatieswar/EXPERIMENT-1"><img src="assets/repo-card-cloud.svg" alt="Cloud and DevOps artwork for Experiment 1" width="100%"></a>
+<h3><a href="https://github.com/ambatieswar/EXPERIMENT-1">EXPERIMENT-1</a></h3>
+<p>Technical experiment repository.</p>
+<a href="https://github.com/ambatieswar/EXPERIMENT-1">Open repository →</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/ambatieswar/EXPERIMENT-2-DEVOPS-"><img src="assets/repo-card-cloud.svg" alt="Cloud and DevOps artwork for Experiment 2" width="100%"></a>
+<h3><a href="https://github.com/ambatieswar/EXPERIMENT-2-DEVOPS-">EXPERIMENT-2-DEVOPS-</a></h3>
+<p>DevOps experiment repository.</p>
+<a href="https://github.com/ambatieswar/EXPERIMENT-2-DEVOPS-">Open repository →</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/ambatieswar/EXPERIMENT-3"><img src="assets/repo-card-cloud.svg" alt="Cloud and DevOps artwork for Experiment 3" width="100%"></a>
+<h3><a href="https://github.com/ambatieswar/EXPERIMENT-3">EXPERIMENT-3</a></h3>
+<p>Technical experiment repository.</p>
+<a href="https://github.com/ambatieswar/EXPERIMENT-3">Open repository →</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/ambatieswar/CLOUD-BASED-ATTENDANCE-SYSTEM-"><img src="assets/repo-card-cloud.svg" alt="Cloud and DevOps artwork for CloudAttend" width="100%"></a>
+<h3><a href="https://github.com/ambatieswar/CLOUD-BASED-ATTENDANCE-SYSTEM-">CLOUD-BASED-ATTENDANCE-SYSTEM-</a></h3>
+<p>Django attendance system with AWS deployment, REST APIs, analytics, and role-based portals.</p>
+<a href="https://github.com/ambatieswar/CLOUD-BASED-ATTENDANCE-SYSTEM-">Open repository →</a>
+</td>
+</tr>
+</table>
+
+### Mobile
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/ambatieswar/ANEMAI-DETECTION-MOBILE-APP-"><img src="assets/repo-card-mobile.svg" alt="Mobile artwork for the Anemai Detection app" width="100%"></a>
+<h3><a href="https://github.com/ambatieswar/ANEMAI-DETECTION-MOBILE-APP-">ANEMAI-DETECTION-MOBILE-APP-</a></h3>
+<p>Dart mobile application project.</p>
+<a href="https://github.com/ambatieswar/ANEMAI-DETECTION-MOBILE-APP-">Open repository →</a>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
 
 ## Contact
 

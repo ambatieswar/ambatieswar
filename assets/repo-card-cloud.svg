@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 170" role="img" aria-labelledby="title desc">
+  <title id="title">Cloud and DevOps repository banner</title>
+  <desc id="desc">Abstract cloud infrastructure diagram with connected services.</desc>
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#0b1020"/><stop offset="1" stop-color="#102c4a"/></linearGradient></defs>
+  <rect width="760" height="170" rx="18" fill="url(#g)"/>
+  <g fill="none" stroke="#38bdf8" stroke-width="2"><path d="M455 89h75l45-32 58 32h70"/><path d="M530 89v42h70V89M650 89v42h70V89"/></g>
+  <g fill="#2dd4bf"><circle cx="455" cy="89" r="6"/><circle cx="530" cy="89" r="6"/><circle cx="600" cy="131" r="6"/><circle cx="650" cy="89" r="6"/><circle cx="720" cy="131" r="6"/></g>
+  <text x="42" y="52" fill="#f8fafc" font-family="sans-serif" font-size="23" font-weight="700">CLOUD &amp; DEVOPS</text>
+  <text x="42" y="84" fill="#cbd5e1" font-family="sans-serif" font-size="14">automation · infrastructure · delivery</text>
+  <text x="42" y="128" fill="#8b5cf6" font-family="monospace" font-size="13">deploy → observe → improve</text>
+</svg>
