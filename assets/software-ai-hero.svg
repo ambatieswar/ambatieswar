@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 390" role="img" aria-labelledby="title desc">
+  <title id="title">Software and artificial intelligence developer banner</title>
+  <desc id="desc">A professional midnight gradient banner with an AI neural core, software code, and cloud infrastructure.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#070b18"/>
+      <stop offset=".48" stop-color="#101b3d"/>
+      <stop offset="1" stop-color="#27134d"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#22d3ee"/>
+      <stop offset=".52" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="core" cx=".5" cy=".5" r=".5">
+      <stop stop-color="#67e8f9" stop-opacity=".9"/>
+      <stop offset=".45" stop-color="#6366f1" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#0b1020" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft-glow"><feGaussianBlur stdDeviation="13"/></filter>
+  </defs>
+  <rect width="1280" height="390" rx="26" fill="url(#background)"/>
+  <circle cx="958" cy="174" r="152" fill="url(#core)" filter="url(#soft-glow)"/>
+  <g fill="none" stroke="url(#neon)" stroke-width="2" opacity=".7">
+    <path d="M732 115 844 62l118 45 132-60 105 53"/>
+    <path d="M732 115v126l112 58 118-54V107"/>
+    <path d="m962 107 132 72v108l-132 58"/>
+    <path d="M844 299V174l118-67"/>
+    <path d="M1094 179 1199 119v104l-105 64"/>
+  </g>
+  <g fill="#67e8f9">
+    <circle cx="732" cy="115" r="6"/><circle cx="844" cy="62" r="6"/>
+    <circle cx="962" cy="107" r="6"/><circle cx="1094" cy="179" r="6"/>
+    <circle cx="1199" cy="119" r="6"/><circle cx="844" cy="299" r="6"/>
+  </g>
+  <g transform="translate(78 78)">
+    <rect width="510" height="232" rx="18" fill="#080d1d" fill-opacity=".92" stroke="#38bdf8" stroke-opacity=".48"/>
+    <circle cx="30" cy="29" r="5" fill="#fb7185"/><circle cx="48" cy="29" r="5" fill="#facc15"/><circle cx="66" cy="29" r="5" fill="#4ade80"/>
+    <text x="30" y="77" fill="#94a3b8" font-family="monospace" font-size="17">$ build --profile</text>
+    <text x="30" y="119" fill="#f8fafc" font-family="sans-serif" font-size="30" font-weight="700">Ambati Eswar Reddy</text>
+    <text x="30" y="153" fill="#67e8f9" font-family="sans-serif" font-size="18">Software Developer</text>
+    <text x="30" y="183" fill="#cbd5e1" font-family="sans-serif" font-size="15">AI · Backend · Cloud · Productive systems</text>
+    <path d="M30 205h264" stroke="url(#neon)" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <text x="78" y="354" fill="#94a3b8" font-family="monospace" font-size="12">PYTHON / DJANGO / LLMs / AWS / REST APIs</text>
+</svg>

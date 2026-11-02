@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title">
-  <title id="title">AER monogram emblem</title>
-  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient></defs>
-  <rect width="160" height="160" rx="36" fill="#0b1020"/>
-  <path d="M34 118 68 40h24l34 78H108l-8-20H60l-8 20zm34-42h26l-13-31z" fill="url(#g)"/>
-  <path d="M43 125h74" stroke="#2dd4bf" stroke-width="4" stroke-linecap="round"/>
-</svg>

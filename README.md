@@ -1,7 +1,10 @@
 <div align="center">
-  <img src="assets/github-hero.svg" alt="Ambati Eswar Reddy — AI and backend developer" width="100%">
+  <img src="assets/software-ai-hero.svg" alt="Ambati Eswar Reddy — software developer working with AI, backend systems, and cloud" width="100%">
   <br>
-  <img src="assets/profile-emblem.svg" alt="AER monogram" width="72">
+  <img src="https://github.com/ambatieswar.png?size=160" alt="Ambati Eswar Reddy profile picture" width="120" height="120">
+  <br>
+  <strong>Software Developer · AI & Backend Developer</strong><br>
+  <sub>Building clear, useful software with Python, Django, LLMs, REST APIs, and cloud infrastructure.</sub>
 </div>
 
 <div align="center">
@@ -19,11 +22,18 @@
 </div>
 
 <p align="center">
-  <a href="#focus">Focus</a> ·
-  <a href="#selected-work">Selected work</a> ·
-  <a href="#cloud-engineering">Cloud engineering</a> ·
-  <a href="#education--recognition">Education & recognition</a> ·
-  <a href="#contact">Contact</a>
+  <a href="#focus">⚡ Focus</a> ·
+  <a href="#github-dashboard">📊 Stats</a> ·
+  <a href="#selected-work">🚀 Selected work</a> ·
+  <a href="#cloud-engineering">☁️ Cloud</a> ·
+  <a href="#repository-gallery">🧩 Repositories</a> ·
+  <a href="#contact">✉️ Contact</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ambatieswar?tab=repositories"><img src="https://img.shields.io/badge/Explore_repositories-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"></a>
+  <a href="https://cloudattend.duckdns.org/accounts/login/"><img src="https://img.shields.io/badge/Live_project-2DD4BF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Open live project"></a>
+  <a href="https://drive.google.com/file/d/12p3EO1IkpfemCy13mEulSsWYJy21EmNt/view?usp=drivesdk"><img src="https://img.shields.io/badge/View_resume-8B5CF6?style=for-the-badge&logo=googledrive&logoColor=white" alt="View resume"></a>
 </p>
 
 ## Focus
