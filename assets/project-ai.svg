@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 220" role="img" aria-labelledby="title desc">
+  <title id="title">AI project preview</title>
+  <desc id="desc">AI pipeline connecting application input to models and useful outputs.</desc>
+  <rect width="760" height="220" rx="18" fill="#0b1020"/>
+  <text x="32" y="42" fill="#f8fafc" font-family="sans-serif" font-size="22" font-weight="700">Applied AI systems</text>
+  <text x="32" y="68" fill="#94a3b8" font-family="sans-serif" font-size="13">Placement intelligence · code review automation</text>
+  <g font-family="sans-serif" font-size="14" font-weight="700">
+    <rect x="42" y="112" width="150" height="52" rx="10" fill="#111827" stroke="#38bdf8"/><text x="76" y="143" fill="#38bdf8">Input</text>
+    <rect x="250" y="112" width="170" height="52" rx="10" fill="#111827" stroke="#8b5cf6"/><text x="284" y="143" fill="#a78bfa">LLM pipeline</text>
+    <rect x="478" y="112" width="240" height="52" rx="10" fill="#111827" stroke="#2dd4bf"/><text x="518" y="143" fill="#2dd4bf">Actionable output</text>
+  </g>
+  <g stroke="#cbd5e1" stroke-width="2"><path d="M192 138h58"/><path d="M420 138h58"/></g>
+  <g fill="#cbd5e1"><path d="m242 132 10 6-10 6z"/><path d="m470 132 10 6-10 6z"/></g>
+</svg>

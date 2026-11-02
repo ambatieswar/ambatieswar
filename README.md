@@ -1,31 +1,98 @@
-# Ambati Eswar Reddy
+<div align="center">
+  <img src="assets/github-hero.svg" alt="Ambati Eswar Reddy — AI and backend developer" width="100%">
+  <br>
+  <img src="assets/profile-emblem.svg" alt="AER monogram" width="72">
+</div>
 
-### Software Developer | AI & Backend Developer | Python, Django, and LLMs
+<div align="center">
+  <a href="https://github.com/ambatieswar"><img src="https://img.shields.io/badge/GitHub-ambatieswar-181717?style=flat&logo=github" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/ambatieswar"><img src="https://img.shields.io/badge/LinkedIn-ambatieswar-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:ambatieswarreddy25@gmail.com"><img src="https://img.shields.io/badge/Email-contact-D14836?style=flat&logo=gmail" alt="Email"></a>
+  <a href="https://drive.google.com/file/d/12p3EO1IkpfemCy13mEulSsWYJy21EmNt/view?usp=drivesdk"><img src="https://img.shields.io/badge/Resume-download-8B5CF6?style=flat&logo=googledrive" alt="Download resume"></a>
+</div>
 
-I am a B.Tech Information Technology student at **Bapatla Engineering College** and an aspiring AI and backend developer. I build intelligent, production-oriented systems with **Python, Django, Flask, REST APIs, MongoDB, Generative AI, and LLMs**, with a focus on solving practical problems through clean architecture and reliable application design.
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-ambatieswar-181717?style=flat&logo=github)](https://github.com/ambatieswar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ambatieswar-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ambatieswar)
-[![Email](https://img.shields.io/badge/Email-ambatieswarreddy25%40gmail.com-D14836?style=flat&logo=gmail)](mailto:ambatieswarreddy25@gmail.com)
-[![Live demo](https://img.shields.io/badge/Live_demo-CloudAttend-0f766e?style=flat)](http://cloudattend.duckdns.org/accounts/login/)
+<div align="center">
+  <strong>Software Developer · AI & Backend Developer · Python, Django, and LLMs</strong><br>
+  Building practical systems where reliable backend engineering meets applied AI and cloud deployment.
+</div>
 
-## About me
+<p align="center">
+  <a href="#focus">Focus</a> ·
+  <a href="#selected-work">Selected work</a> ·
+  <a href="#cloud-engineering">Cloud engineering</a> ·
+  <a href="#education--recognition">Education & recognition</a> ·
+  <a href="#contact">Contact</a>
+</p>
 
-- Seeking opportunities to apply Python, Django, backend engineering, and LLM expertise to real-world systems.
-- Experienced with modular web applications, CRUD workflows, authentication, role-based access control, and REST API design.
-- Interested in Generative AI, prompt engineering, AI-assisted developer tools, cloud platforms, and production-grade software.
-- Ranked **#1 in the CS/IT department for three consecutive years** with a **9.6/10 CGPA**.
+## Focus
 
-## Technical skills
+I am a B.Tech Information Technology student at **Bapatla Engineering College** and an aspiring AI and backend developer. I build with **Python, Django, Flask, REST APIs, MongoDB, Generative AI, and LLMs**, with an emphasis on clean application structure, useful automation, and maintainable delivery.
 
-| Area | Technologies and concepts |
-| --- | --- |
-| Languages | Python, SQL |
-| Backend | Django, Django REST Framework, Flask, REST APIs, JSON |
-| AI/ML | LLMs, Generative AI, prompt engineering, Mistral AI, Llama models, Groq API |
-| Data & security | MongoDB, Django ORM, JWT, OTP verification, bcrypt |
-| Engineering | OOP, classes, inheritance, polymorphism, design patterns, modular architecture |
-| Tools & cloud | Git, Oracle Cloud Infrastructure (OCI), Flask-Mail |
+| Backend | Applied AI | Cloud & engineering |
+| --- | --- | --- |
+| Django · DRF · Flask · REST APIs · JSON · Django ORM | LLMs · Generative AI · prompt engineering · Mistral AI · Llama · Groq API | AWS Elastic Beanstalk · RDS MySQL · CloudFormation · VPC · IAM · GitHub Actions |
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,js,html,css,mongodb,mysql,aws,git,github,linux&perline=6" alt="Python, Django, Flask, JavaScript, HTML, CSS, MongoDB, MySQL, AWS, Git, GitHub, and Linux logos">
+</p>
+
+## GitHub dashboard
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ambatieswar&theme=github_dark" alt="Ambati Eswar Reddy's GitHub statistics" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ambatieswar&theme=github_dark" alt="Repository language distribution" width="49%">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ambatieswar&hide_border=true&background=0B1020&ring=8B5CF6&fire=38BDF8&currStreakLabel=2DD4BF&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub contribution streak" width="70%">
+</p>
+
+<p align="center"><sub>Statistics are generated by third-party services and may be cached or temporarily unavailable. The profile remains useful without them.</sub></p>
+
+## Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/ambatieswar/PLACEMENT-AI"><img src="assets/project-ai.svg" alt="Applied AI project preview" width="100%"></a>
+<h3><a href="https://github.com/ambatieswar/PLACEMENT-AI">PlacementAI</a></h3>
+<p>Placement intelligence platform using Flask, MongoDB, Mistral AI, and JWT.</p>
+<ul>
+<li>Nine integrated AI modules, including prediction, skill-gap analysis, interviews, and ATS scoring.</li>
+<li>Reported 91.4% prediction accuracy and 500+ student records.</li>
+<li>1st Prize at the Ratan Tata SPARK Innovation Hub; ICSIE 2026 publication.</li>
+</ul>
+<a href="https://github.com/ambatieswar/PLACEMENT-AI">Source code →</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/ambatieswar/CODE-REFINE"><img src="assets/project-ai.svg" alt="Code-Refine AI project preview" width="100%"></a>
+<h3><a href="https://github.com/ambatieswar/CODE-REFINE">Code-Refine AI</a></h3>
+<p>AI-assisted code review and developer productivity platform.</p>
+<ul>
+<li>Bug detection, complexity analysis, optimization, and refactoring suggestions.</li>
+<li>Groq API and LLM-based analysis across 5+ programming languages.</li>
+<li>Winner of the AI Innovation Hackathon 2026.</li>
+</ul>
+<a href="https://github.com/ambatieswar/CODE-REFINE">Source code →</a>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<a href="https://github.com/ambatieswar/CLOUD-BASED-ATTENDANCE-SYSTEM-"><img src="assets/project-cloud-attendance.svg" alt="CloudAttend architecture preview" width="100%"></a>
+<h3><a href="https://github.com/ambatieswar/CLOUD-BASED-ATTENDANCE-SYSTEM-">CloudAttend — Cloud Attendance System</a></h3>
+<p>Django attendance platform with role-based portals, bulk marking, analytics, reports, student accounts, welcome emails, and a paginated REST API.</p>
+<p><strong>Verified stack:</strong> Django 5 · Django REST Framework · RDS MySQL · Elastic Beanstalk · VPC · CloudFormation · GitHub Actions</p>
+<a href="https://github.com/ambatieswar/CLOUD-BASED-ATTENDANCE-SYSTEM-">Source code →</a> · <a href="http://cloudattend.duckdns.org/accounts/login/">Live demo →</a>
+</td>
+</tr>
+</table>
+
+## Cloud engineering
+
+<p align="center"><img src="assets/aws-architecture.svg" alt="CloudAttend AWS architecture from users to Elastic Beanstalk in public subnets and private RDS MySQL" width="100%"></p>
+
+The CloudAttend deployment template provisions a VPC with public subnets for the Elastic Beanstalk application and private subnets for encrypted, non-public RDS MySQL. Security groups restrict database access to the application tier. The repository also includes a manually triggered GitHub Actions workflow for infrastructure and application deployment.
 
 ## Experience
 
@@ -33,73 +100,38 @@ I am a B.Tech Information Technology student at **Bapatla Engineering College** 
 
 **Remote · May 2025 – July 2025**
 
-- Built a Django web application with modular views, templates, URL routing, CRUD workflows, authentication, and role-based access control across four user roles.
+- Built a modular Django application with CRUD workflows, authentication, and role-based access across four user roles.
 - Designed and optimized **15+ RESTful API endpoints** with Django REST Framework.
-- Improved average response latency by approximately **30%** through query optimization and structured JSON client-server communication.
+- Improved average response latency by approximately **30%** through query optimization.
 
-## Featured projects
+## Education & recognition
 
-### [PlacementAI](https://github.com/ambatieswar/PLACEMENT-AI)
+**B.Tech in Information Technology** · Bapatla Engineering College, Andhra Pradesh<br>
+**2023–2027 · CGPA 9.6/10 · CS/IT department topper for three consecutive years**
 
-A full-stack placement intelligence platform built with **Flask, MongoDB, Mistral AI, and JWT**.
-
-- Integrated nine AI modules, including Placement Predictor, Skill Gap Analyzer, Interview Simulator, and ATS Resume Scorer.
-- Reported **91.4% placement-prediction accuracy** and support for **500+ student records** in MongoDB.
-- Implemented secure JWT authentication and OTP verification using bcrypt and Flask-Mail.
-- Won **1st Prize at the Ratan Tata SPARK Innovation Hub** among 100+ competing teams.
-- Published as **“Placement Intelligence Platform Using AI”** at the Scopus-indexed ICSIE 2026 conference, Paper ID `ICSIE2601549`.
-
-### [Code-Refine AI](https://github.com/ambatieswar/CODE-REFINE)
-
-An AI-driven code review and developer productivity platform built with **Python, Flask, Groq API, LLMs, and MongoDB**.
-
-- Provides real-time bug detection, complexity analysis, optimization suggestions, and LLM-driven refactoring recommendations.
-- Supports analysis across **5+ programming languages**.
-- Reported an estimated **40% reduction in manual code-review effort**.
-- Winner of the **AI Innovation Hackathon 2026** among 50+ competing teams.
-
-### [CloudAttend — Cloud Attendance System](https://github.com/ambatieswar/CLOUD-BASED-ATTENDANCE-SYSTEM-)
-
-A Django-based attendance management system with role-based admin and student portals.
-
-- Implements bulk attendance marking, dashboards, reports, student accounts, welcome emails, and a paginated REST API.
-- Uses Elastic Beanstalk application hosting, private Amazon RDS for MySQL, VPC networking, security groups, CloudFormation, and GitHub Actions.
-- [Read the architecture and setup guide](https://github.com/ambatieswar/CLOUD-BASED-ATTENDANCE-SYSTEM-/blob/main/README.md) · [Open the live demo](http://cloudattend.duckdns.org/accounts/login/)
+- IEEE publication: “Placement Intelligence Platform Using AI”, accepted at ICSIE 2026.
+- Oracle Cloud Infrastructure (2025), Google Generative AI (2026), Python Essentials — Cisco (2025), Django — APSSDC (2025), Git — Microsoft (2025).
+- Pursuing AWS with AI Global Certification through TalentSprint; completed AI & ML Scholars 2026 through Udacity.
+- 150+ LeetCode problems and a 50-day consistency streak.
+- Smart India Hackathon 2025 participant.
 
 ## More repositories
 
-- [CHAT-APPLICATION](https://github.com/ambatieswar/CHAT-APPLICATION) — Django and Channels real-time chat application.
-- [ANEMAI-DETECTION-MOBILE-APP-](https://github.com/ambatieswar/ANEMAI-DETECTION-MOBILE-APP-) — mobile application project.
-- [SERVERLESS-VOTING-SYSTEM](https://github.com/ambatieswar/SERVERLESS-VOTING-SYSTEM) — serverless voting system project.
-- [personal-portfolio](https://github.com/ambatieswar/personal-portfolio) — personal portfolio project.
-- [jenkins-cicd-demo](https://github.com/ambatieswar/jenkins-cicd-demo) — CI/CD learning project.
-
-## Education
-
-**B.Tech in Information Technology** · Bapatla Engineering College, Bapatla, Andhra Pradesh  
-**2023 – 2027 · CGPA: 9.6/10**
-
-## Achievements and certifications
-
-- IEEE publication: **“Placement Intelligence Platform Using AI”**, accepted at ICSIE 2026.
-- **Academic topper**, CS/IT Department, for three consecutive years.
-- **1st Prize**, Ratan Tata SPARK Innovation Hub, PlacementAI.
-- **Winner**, AI Innovation Hackathon 2026, Code-Refine AI.
-- Solved **150+ LeetCode problems** with a **50-day consistency streak**, focused on two-pointer and sliding-window patterns.
-- Participant, **Smart India Hackathon 2025**.
-- Pursuing **AWS with AI Global Certification** through TalentSprint.
-- Completed **AI & ML Scholars 2026 Programme** through Udacity.
-- Certifications: Oracle Cloud Infrastructure (2025), Google Generative AI (2026), Python Essentials — Cisco (2025), Django — APSSDC (2025), Git — Microsoft (2025).
-
-## GitHub activity
-
-The repositories above provide the most reliable view of my work. I avoid external statistics cards and unsupported activity claims so this profile stays accurate when third-party services change.
+| Repository | Description |
+| --- | --- |
+| [CHAT-APPLICATION](https://github.com/ambatieswar/CHAT-APPLICATION) | Django and Channels real-time chat application |
+| [ANEMAI-DETECTION-MOBILE-APP-](https://github.com/ambatieswar/ANEMAI-DETECTION-MOBILE-APP-) | Mobile application project |
+| [SERVERLESS-VOTING-SYSTEM](https://github.com/ambatieswar/SERVERLESS-VOTING-SYSTEM) | Serverless voting system project |
+| [personal-portfolio](https://github.com/ambatieswar/personal-portfolio) | Personal portfolio project |
+| [jenkins-cicd-demo](https://github.com/ambatieswar/jenkins-cicd-demo) | CI/CD learning project |
 
 ## Contact
 
 - Email: [ambatieswarreddy25@gmail.com](mailto:ambatieswarreddy25@gmail.com)
 - LinkedIn: [linkedin.com/in/ambatieswar](https://linkedin.com/in/ambatieswar)
-- GitHub: [@ambatieswar](https://github.com/ambatieswar)
-- Project discussions: [CLOUD-BASED-ATTENDANCE-SYSTEM- issues](https://github.com/ambatieswar/CLOUD-BASED-ATTENDANCE-SYSTEM-/issues)
-
 - Resume: [Download my resume](https://drive.google.com/file/d/12p3EO1IkpfemCy13mEulSsWYJy21EmNt/view?usp=drivesdk)
+- GitHub: [@ambatieswar](https://github.com/ambatieswar)
+
+<div align="center">
+  <sub>Build deliberately. Document clearly. Ship useful software.</sub>
+</div>

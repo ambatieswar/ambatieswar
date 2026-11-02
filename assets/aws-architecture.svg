@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 250" role="img" aria-labelledby="title desc">
+  <title id="title">CloudAttend AWS architecture</title>
+  <desc id="desc">Users reach a Django application on Elastic Beanstalk in public subnets, which accesses private RDS MySQL.</desc>
+  <rect width="900" height="250" rx="18" fill="#0b1020"/>
+  <text x="32" y="38" fill="#f8fafc" font-family="sans-serif" font-size="21" font-weight="700">Verified CloudAttend deployment path</text>
+  <text x="32" y="62" fill="#94a3b8" font-family="sans-serif" font-size="13">Public entry point → application tier → private database tier</text>
+  <circle cx="100" cy="145" r="38" fill="#111827" stroke="#38bdf8" stroke-width="2"/><text x="76" y="150" fill="#38bdf8" font-family="sans-serif" font-size="13">Users</text>
+  <rect x="225" y="105" width="220" height="80" rx="14" fill="#111827" stroke="#38bdf8" stroke-width="2"/><text x="267" y="137" fill="#38bdf8" font-family="sans-serif" font-size="17" font-weight="700">Public subnets</text><text x="259" y="161" fill="#cbd5e1" font-family="sans-serif" font-size="12">Elastic Beanstalk + IAM</text>
+  <rect x="580" y="105" width="220" height="80" rx="14" fill="#111827" stroke="#8b5cf6" stroke-width="2"/><text x="645" y="137" fill="#a78bfa" font-family="sans-serif" font-size="17" font-weight="700">Private subnets</text><text x="636" y="161" fill="#cbd5e1" font-family="sans-serif" font-size="12">Encrypted RDS MySQL</text>
+  <g stroke="#2dd4bf" stroke-width="3"><path d="M138 145h87"/><path d="M445 145h135"/></g><g fill="#2dd4bf"><path d="m215 138 12 7-12 7z"/><path d="m572 138 12 7-12 7z"/></g>
+  <path d="M210 78h610" stroke="#334155" stroke-dasharray="5 7"/><text x="445" y="92" fill="#64748b" font-family="monospace" font-size="11">VPC boundary</text>
+</svg>
