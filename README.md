@@ -102,4 +102,4 @@ The repositories above provide the most reliable view of my work. I avoid extern
 - GitHub: [@ambatieswar](https://github.com/ambatieswar)
 - Project discussions: [CLOUD-BASED-ATTENDANCE-SYSTEM- issues](https://github.com/ambatieswar/CLOUD-BASED-ATTENDANCE-SYSTEM-/issues)
 
-> A public resume download link is not included yet because the resume PDF has not been published to a stable public URL.
+- Resume: [Download my resume](https://drive.google.com/file/d/12p3EO1IkpfemCy13mEulSsWYJy21EmNt/view?usp=drivesdk)
